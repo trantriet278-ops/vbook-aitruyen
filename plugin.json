@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "name": "AITruyen",
+    "author": "TrietTran",
+    "version": 1,
+    "source": "https://aitruyen.net",
+    "type": "novel"
+  },
+  "script": {
+    "search": "search.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
